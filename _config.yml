@@ -2,19 +2,19 @@
 # The title of the website.
 title: "On the way"
 # The description of the website
-description: "I am trying to record to my story with every photos presented here"
+description: "Life is not always about looking forward, we have to look back sometimes - that's the origin of my name"
 # Keywords/tags for you site.
 keywords: "climbing, hiking, bouldering, grow"
 # Your copyright message.
-copyright: "Copyright &copy; 2017 - Eleven Chen."
+copyright: "Copyright &copy; 2021 - Eleven Chen."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "On the way"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "-my recording of my life"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "Life is not always about looking forward, we have to look back sometimes - that's the origin of my name."
 social:
   # Your Twitter username.
   twitter_username: ""
